@@ -1,7 +1,7 @@
 import requests
 
 # Константы
-USERNAME = "CREATOR4k"
+USERNAME = "Example: CREATOR4k"
 # Необязательно: GitHub Token (classic) с правом read:user.
 # Оставьте пустой строкой "", чтобы запустить без токена (лимит 60 запросов/час).
 TOKEN = ""
