@@ -8,7 +8,7 @@ The script helps you quickly tidy up your profile by identifying:
 *   **Fans** — users who follow you, but whom you do not follow back.
 
 ## ✨ Features
-
+ 
 *   **Comprehensive data retrieval:** Automatically handles GitHub API pagination, allowing it to fetch lists of any size (even those with more than 100 users).
 *   **Direct links:** Outputs results as clickable links to user profiles.
 *   **Security and rate limits:** Can run without authentication (up to 60 requests per hour) or with a GitHub Personal Access Token to bypass rate limits.
